@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "XEyog64XmRShXfKlttWosDEoc1Qq6x3DbJrFBGz8K/waHe0tPCsc3y0QYbaIbPqVXR/iGXGghbhTVFwOM+mdUw==",
+  "dgSpecHash": "6sNTowFbJ3M5EGJmxn0tb5rybY+HD8OmYZQ5rLNoEtAZhui9gFvqXpYn/zIstvsiCYpiaMGzVwur7ea+TVj+zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Julius Evan A.R.S\\Downloads\\Evan\\Responsi\\482618-Julius Evan-ResponsiJuniorProject\\482618-Julius Evan-ResponsiJuniorProject\\482618-Julius Evan-ResponsiJuniorProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Julius Evan A.R.S\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Julius Evan A.R.S\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Julius Evan A.R.S\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Julius Evan A.R.S\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\Julius Evan A.R.S\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Julius Evan A.R.S\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Julius Evan A.R.S\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
